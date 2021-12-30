@@ -8,7 +8,7 @@ The dataset had username of some twitter user tagged in the tweets, those tags w
 
 The dataset has close to 30k labelled tweets.
 
-![Architecture](/Users/varunbhardwaj/Desktop/687474703a2f2f692e696d6775722e636f6d2f6d58427a724e552e706e67.png "Twitter Sentiment Analysis")
+![Architecture]("687474703a2f2f692e696d6775722e636f6d2f6d58427a724e552e706e67.png")
 
 I used LSTM model to classify the tweets and achieved an accuracy almost equal to 99%, isn't it great?
 If you like my work, do share it among your friends as well :)
